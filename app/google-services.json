@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "170226645364",
+    "firebase_url": "https://fir-demo-de77b-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-de77b",
+    "storage_bucket": "fir-demo-de77b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170226645364:android:af9e3835fdb0019f9ed421",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemofirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170226645364-72rmg1c1i24hj3a6qtm3df79i6i01l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ej-e7ucZ568MJjJU4MytOgRh7Cblya0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170226645364-72rmg1c1i24hj3a6qtm3df79i6i01l44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170226645364:android:cf6591a184ea70909ed421",
+        "android_client_info": {
+          "package_name": "shakti.thread.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170226645364-72rmg1c1i24hj3a6qtm3df79i6i01l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ej-e7ucZ568MJjJU4MytOgRh7Cblya0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170226645364-72rmg1c1i24hj3a6qtm3df79i6i01l44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
